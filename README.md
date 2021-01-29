@@ -2,7 +2,7 @@
 
 [Inspired by Liz Rice's "from scratch" series](https://www.youtube.com/watch?v=8fi7uSYlOdc)
 
-## [Liz Rice Inspiration](https://github.com/lizrice/containers-from-scratch)
+## [Liz Rice - Inspiration Repo](https://github.com/lizrice/containers-from-scratch)
 
 Writing a container in a few lines of Go code, as seen at DockerCon 2017 and on O'Reilly Safari
 
