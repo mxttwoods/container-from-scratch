@@ -1,6 +1,6 @@
 # [container-from-scratch](https://www.youtube.com/watch?v=8fi7uSYlOdc)
 
-Inspired by Liz Rice's from scratch series
+Inspired by Liz Rice's "from scratch" series
 
 ## [Liz Rice Demo](https://github.com/lizrice/containers-from-scratch)
 
