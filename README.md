@@ -1,11 +1,41 @@
-# [container-from-scratch](https://www.youtube.com/watch?v=8fi7uSYlOdc)
+# Welcome to container-from-scratch 👋
 
-[Inspired by Liz Rice's "from scratch" series](https://www.youtube.com/watch?v=8fi7uSYlOdc)
+![Version](https://img.shields.io/badge/version-0.0.0--1-blue.svg?cacheSeconds=2592000)
+[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/mxttwoods/container-from-scratch#readme)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Twitter: mxttwoods](https://img.shields.io/twitter/follow/mxttwoods.svg?style=social)](https://twitter.com/mxttwoods)
 
-## [Liz Rice - Inspiration Repo](https://github.com/lizrice/containers-from-scratch)
+> Experimenting with containers
 
-Writing a container in a few lines of Go code, as seen at DockerCon 2017 and on O'Reilly Safari
+## Usage
 
-You need root permissions for this version to work. Or you can adapt it to be a rootless container by as shown in these slides.
+> Requires golang 1.15.x
 
-Note that the Go code uses some syscall definitions that are only available when building with GOOS=linux.
+```bash
+# .go entry point
+go run main.go
+
+# or
+
+# .sh entry point
+sh start
+```
+
+## Author
+
+👤 **Matthew Woods**
+
+- Website: https://matthew.codes
+- Twitter: [@mxttwoods](https://twitter.com/mxttwoods)
+- Github: [@mxttwoods](https://github.com/mxttwoods)
+- LinkedIn: [@matthew-t-woods](https://linkedin.com/in/matthew-t-woods)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright © 2021 [Matthew Woods](https://github.com/mxttwoods).
+
+This project is [MIT](LICENSE) licensed.
