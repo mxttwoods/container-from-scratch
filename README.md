@@ -1,8 +1,7 @@
-# Welcome to container-from-scratch 👋
+# container-from-scratch 
 
 ![Version](https://img.shields.io/badge/version-0.0.0--1-blue.svg?cacheSeconds=2592000)
-[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/mxttwoods/container-from-scratch#readme)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Twitter: mxttwoods](https://img.shields.io/twitter/follow/mxttwoods.svg?style=social)](https://twitter.com/mxttwoods)
 
 > Experimenting with containers
@@ -23,18 +22,14 @@ sh start
 
 ## Author
 
-👤 **Matthew Woods**
+**Matthew Woods**
 
 - Website: https://matthew.codes
 - Twitter: [@mxttwoods](https://twitter.com/mxttwoods)
 - Github: [@mxttwoods](https://github.com/mxttwoods)
 - LinkedIn: [@matthew-t-woods](https://linkedin.com/in/matthew-t-woods)
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-## 📝 License
+## License
 
 Copyright © 2021 [Matthew Woods](https://github.com/mxttwoods).
 
