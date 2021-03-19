@@ -3,9 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Twitter: mxttwoods](https://img.shields.io/twitter/follow/mxttwoods.svg?style=social)](https://twitter.com/mxttwoods)
 
-> Experimenting with containers
-
-## Usage
+## Overview
 
 > Requires golang 1.15.x
 
